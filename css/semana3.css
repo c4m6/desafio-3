@@ -1,0 +1,31 @@
+body{
+    font-family: Verdana, Arial, sans-serif;
+    color: #6F4F43;
+    background-color: #F0F0F0;
+}
+img{
+    max-width: 100%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+h2{
+    color: #E1D4CF;
+    background-color: #6F4F43;
+}
+.text-color{
+    color: #D8B03B;
+}
+a{
+    color: #EF6D22;
+    font-weight: bold;
+}
+nav{
+    font-size: 20px;
+}
+.color-blue{
+    color: #44A6C0;
+}
+.color-red{
+    color: #ED415D;
+}
